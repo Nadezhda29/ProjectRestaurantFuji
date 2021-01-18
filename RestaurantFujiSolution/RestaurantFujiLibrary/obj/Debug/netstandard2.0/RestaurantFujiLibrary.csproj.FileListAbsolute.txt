@@ -1,0 +1,9 @@
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\bin\Debug\netstandard2.0\RestaurantFujiLibrary.deps.json
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\bin\Debug\netstandard2.0\RestaurantFujiLibrary.dll
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.AssemblyInfo.cs
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\bin\Debug\netstandard2.0\RestaurantFujiLibrary.pdb
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.dll
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.pdb
+C:\Users\Nadezhda\Desktop\C#\RestaurantFujiSolution\RestaurantFujiLibrary\obj\Debug\netstandard2.0\RestaurantFujiLibrary.csprojAssemblyReference.cache
